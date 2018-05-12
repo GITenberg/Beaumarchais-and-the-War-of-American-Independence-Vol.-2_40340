@@ -1,0 +1,27 @@
+_repo: Beaumarchais-and-the-War-of-American-Independence-Vol.-2_40340
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40340-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kite, Elizabeth Sarah
+    birthdate: 1864
+    deathdate: 1954
+    gutenberg_agent_id: '39148'
+    url: http://www.gutenberg.org/2009/agents/39148
+description: ''
+gutenberg_issued: '2012-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Participation, French'
+- !lcsh 'Beaumarchais, Pierre Augustin Caron de, 1732-1799'
+title: Beaumarchais and the War of American Independence, Vol. 2
+url: http://www.gutenberg.org/ebooks/40340
